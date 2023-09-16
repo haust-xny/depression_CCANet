@@ -49,5 +49,5 @@ Log_ Dir_ Path is the folder path where Tensorboard log files are stored
 
 ```
 Run Test Sequence:preprocess.py--->test.py
-Our model training results are available for download in Releases in the file name: CCANet_result.pth
+Our model training results are available for download in Releases, the file name is: CCANet_result.pth, after downloading it, put it in the model_dict folder, you can run test.py
 ```
