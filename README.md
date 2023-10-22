@@ -9,6 +9,8 @@ The dataset is downloaded and placed in the main sibling directory.
 
 Note that the extraction password can be found in Reply #4 of the journal email.
 
+The trained model is downloaded at Releases and then stored in model_dict, after which the test.py file is run.
+
 
 Pretreatment process：
 
