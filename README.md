@@ -42,7 +42,7 @@ main.py		Model training entry file
 ```
 img		Extracted video frame files
 log		Tensorboard log file
-model_dict	Log file trained model parameter file
+model_dict	Log file trained model parameter file.The trained model is available for download in Release.
 processed	Store facial images and label files after preprocessing
 AVEC2014	Dataset storage location
 ```
